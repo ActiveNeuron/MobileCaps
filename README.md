@@ -1,2 +1,2 @@
 # MobileCaps
-A Lighweight Capsule Network Model for the detection of COVID-19 from Chest X-Ray 
+MobileCaps is a fully automated, hybrid, and lightweight model for the detection of COVID-19 from Chest X-Ray.
